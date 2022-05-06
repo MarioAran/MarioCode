@@ -69,7 +69,7 @@ services:
         - /var/run:/var/run
      depends_on:
         - zabbix_server
-     network_mode: "zabbix-44_xarxa"
+     network_mode: "zabbix_xarxa"
 
   zabbix_web:
      image: zabbix/zabbix-web-apache-mysql:ubuntu-4.4-latest
