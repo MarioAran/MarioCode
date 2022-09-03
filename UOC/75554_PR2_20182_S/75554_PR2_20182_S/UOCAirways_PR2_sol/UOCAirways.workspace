@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCAirways" Database="" Version="10.0.0">
+  <Project Name="API-C-TEST" Path="../../../../API-C-TEST/API-C-TEST.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Test">
+      <Environment/>
+      <Project Name="API-C-TEST" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Menu">
+      <Environment/>
+      <Project Name="UOCAirways" ConfigName="Menu"/>
+      <Project Name="UOCAirways" ConfigName="Menu"/>
+      <Project Name="API-C-TEST" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/admin/Desktop/Github/MarioCode/API-C-TEST/main.c",
+  "directory": "/Users/admin/Desktop/Github/MarioCode/API-C-TEST",
+  "command": "clang -c /Users/admin/Desktop/Github/MarioCode/API-C-TEST/main.c -o /Users/admin/Desktop/Github/MarioCode/API-C-TEST/main.c.o  -I. -I."
+ }]
