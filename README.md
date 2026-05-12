@@ -20,21 +20,21 @@ Este repositorio es mi sandbox personal - un espacio donde:
 ## 📂 Estructura del Proyecto
 - MarioCode/
 - │
-- ├── docker/ # Proyectos con Docker
+- ├─┐ docker/ # Proyectos con Docker
 - │ └── wordpress/ # Stack WordPress + MySQL + Redis + Grafana
 - │ ├── docker-compose.yml
 - │ └── .env.example
 - │
-- ├── python/ # Scripts y pruebas en Python
+- ├─┐ python/ # Scripts y pruebas en Python
 - │ └── healthcheck.py # Healthcheck personalizado
 - │
-- ├── terraform/ # Infraestructura como código
+- ├─┐ terraform/ # Infraestructura como código
 - │ └── main.tf # Configuración de AWS
 - │
-- ├── frontend/ # HTML, CSS, JavaScript
+- ├─┐ frontend/ # HTML, CSS, JavaScript
 - │ └── wapp/ # Aplicación web simple
 - │
-- ├── scripts/ # Scripts útiles (bash, etc.)
+- ├─┐ scripts/ # Scripts útiles (bash, etc.)
 - │ └── script.sh
 - │
 - └── README.md # Este archivo
