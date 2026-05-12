@@ -1,0 +1,90 @@
+# ====================
+# Variables de entorno
+# ====================
+.env
+.env.local
+.env.*.local
+
+# ====================
+# Docker volúmenes locales
+# ====================
+db_data/
+wordpress_data/
+redis/
+grafana/
+*.rdb
+
+# ====================
+# Python
+# ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# ====================
+# Logs
+# ====================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ====================
+# Archivos del sistema
+# ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ====================
+# IDEs y editores
+# ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# ====================
+# Terraform
+# ====================
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.tfvars
+
+# ====================
+# Node.js (si usas algún día)
+# ====================
+node_modules/
+package-lock.json
+yarn.lock
+
+# ====================
+# Archivos comprimidos temporales
+# ====================
+*.zip
+*.tar.gz
+*.rar
+
+# ====================
+# Secretos y claves
+# ====================
+*.pem
+*.key
+*.crt
+.DS_Store
