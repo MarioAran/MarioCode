@@ -7,7 +7,8 @@
 # guardar en ~/scripts/
 # alias aws-clean="bash ~/scripts/aws-cleanup.sh"
 # 
-
+# 
+# 
 echo "=== AWS Full Cleanup Script ==="
 echo "Región: ${AWS_DEFAULT_REGION:-eu-west-1}"
 echo
